@@ -1,6 +1,6 @@
-!pip install streamlit pandas numpy geopy
-!pip install streamlit
-!pip install streamlit-folium
+pip install streamlit pandas numpy geopy
+pip install streamlit
+pip install streamlit-folium
 
 
 streamlit_code = """
