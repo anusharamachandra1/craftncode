@@ -116,7 +116,7 @@ if st.session_state['user_lat'] is not None and st.session_state['user_lon'] is 
     st_folium(m, width=700, height=500)
 """
 
-# Step 2: Save the Streamlit code to a file
+
 with open("app.py", "w") as f:
     f.write(streamlit_code)
 
