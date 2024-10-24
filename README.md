@@ -1,1 +1,1 @@
-# This project is for craft n code hac tuah
+# This project is for craft-n-code hackathon 
